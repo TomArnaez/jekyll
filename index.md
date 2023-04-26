@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# TAAP - A Jekyll Business Theme.
+# TAAP - A Business Consultancy Company.
 
 TAAP contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
